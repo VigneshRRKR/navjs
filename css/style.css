@@ -1,0 +1,38 @@
+        
+        body {
+            font-family: popins, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+
+        nav {
+            background-color: #333;
+            overflow: hidden;
+            padding: 10px 0;
+            text-align: center;
+        }
+
+        nav a {
+            color: white;
+            padding: 10px 15px;
+            text-decoration: none;
+            font-size: 18px;
+            margin: 0 10px;
+            display: inline-block;
+        }
+
+        nav a:hover {
+            background-color: #575757;
+            border-radius: 5px;
+        }
+
+        ul li {
+            list-style: none;
+        }
+
+        .content {
+            text-align: center;
+            margin-top: 50px;
+            font-size: 20px;
+        }
